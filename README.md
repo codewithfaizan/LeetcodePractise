@@ -1,0 +1,2 @@
+# LeetcodePractise
+Leetcode for DSA
